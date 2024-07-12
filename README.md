@@ -5,7 +5,7 @@
 ### Контакты:
 
 - **Телеграм**: [@mikhailgers](https://t.me/mikhailgers)
-- **Emain**: mixolodok@gmail.com
+- **Email**: mixolodok@gmail.com
 - **GitHub**: gers23
 
 ---
@@ -17,7 +17,7 @@
 - [Каталог фильмов](https://gers23.github.io/movie-app/)
 - [Сайт портфолио фотографа](https://gers23.github.io/portfolio-website/)
 - [Виртуальная клавиатура](https://gers23.github.io/virtual-keyboard/)
-- [Слайдер мемов](https://gers23.github.io/cssMemSlider/)
+- [Слайдер мемов на CSS](https://gers23.github.io/cssMemSlider/)
 
 ---
 
