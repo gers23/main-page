@@ -1,4 +1,4 @@
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 title: [Портфолио]
 description: [Мои пет-проекты в фронтенд разработке]
